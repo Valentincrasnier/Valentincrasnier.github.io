@@ -1,0 +1,5 @@
+{% for formation in site.data.formations %}
+      <h2>{{ formation.name }}</h2>
+      <p>{{ formation.description }}</p>
+      <p>Début {{ formation.year.start }} fin {{ formation.year.end }}</p>
+{% endfor %}

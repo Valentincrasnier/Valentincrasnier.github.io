@@ -1,0 +1,18 @@
+-
+  name: "Formation développemnt web et application"
+  description: "Apprentissage du développement web et application en html et css, puis dans le langage ruby et son framework ruby-on-rails"
+  year:
+    start: "Février 2016"
+    end: "Juillet 2016"
+-
+  name: "Employé de commerce"
+  description: "Employer de commerce polyvalant."
+  year:
+    start: "Septembre 2013"
+    end: "Aout 2015"
+-
+  name: "Cap vente"
+  description: "Lycée profésionnel cap vente option alimentaire."
+  year:
+    start: "Septembre 2010"
+    end: "Aout 2013"

@@ -1,0 +1,36 @@
+-
+  name: "K 2000"
+  synopsis: "Cette série met en scène les aventures de Michael Knight, un aventurier des temps modernes au service d'une fondation, et de sa voiture perfectionnée équipée d'un ordinateur de bord dotée d'intelligence artificielle."
+  year:
+    end: "1986"
+    start: "1982"
+  imgs:
+    - 'http://a136.idata.over-blog.com/397x500/4/43/36/11/4426047_f260.jpg'
+    - 'http://www.montres-passion.fr/wp-content/uploads/2014/05/sexy-car-wash.jpg'
+-
+  name: Magnum
+  synopsis: "Ancien combattant de la guerre du Viêt Nam, puis lieutenant dans l'Office of Naval Intelligence, Thomas Magnum s'occupe désormais de la sécurité d'une des propriétés de l'écrivain de polar Robin Masters, située à Oahu dans l'archipel d'Hawaii. À la suite d'un pari perdu, l'auteur à succès lui laisse la jouissance de la maison d'amis ainsi que de sa Ferrari en échange d'assurer la sécurité de la résidence."
+  year:
+    end: "1988"
+    start: "1980"
+  imgs:
+    - "https://upload.wikimedia.org/wikipedia/en/5/59/Magnumtomselleck.jpg"
+    - "http://quizvoice.com/images/864d0bcf9fd625ea9cd981f0963a8b78.jpg"
+-
+  name: "Code Quantum"
+  synopsis: "En 1995, le docteur Samuel Beckett dit Sam, scientifique de génie, termine une expérience temporelle… et son esprit disparaît dans le passé. Désormais, il voyage dans le temps en sautant d'époque en époque, d'endroit en endroit, dans la peau de personnes plus ou moins ordinaires, hommes, femmes, parfois animaux, afin de corriger des erreurs plus ou moins graves dans la vie des gens. Sam Beckett n'a aucun contrôle sur le lieu et la date de son prochain saut dans le temps."
+  year:
+    end: "1993"
+    start: "1989"
+  imgs:
+    - 'http://p3.storage.canalblog.com/30/92/472015/41241232.jpg'
+    - 'http://users.skynet.be/generationtv/quantumleap_16.jpg'
+-
+  name: "Supercopter"
+  synopsis: "Springfellow (Stringfellow en version originale) Hawke est un solitaire qui vit dans une cabane au milieu des montagnes, avec pour seule compagnie son chien Ted. Il possède une collection de tableaux inestimables note 1, héritage de sa famille, ainsi qu'un violoncelle Stradivarius. Son seul ami est Dominic Santini, patron d'une compagnie d'hélicoptères, la « Santini Air », spécialisée dans les cascades de films hollywoodiens."
+  year:
+    end: "1984"
+    start: "1987"
+  imgs:
+    - 'http://www.nanarland.com/acteurs/janmichaelvincent/janmichael02.jpg'
+    - 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ernest-Borgnine_2004.JPEG/220px-Ernest-Borgnine_2004.JPEG'

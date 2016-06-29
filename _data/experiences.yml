@@ -1,0 +1,31 @@
+-
+  name: "Developpeur web et application Wild Code School"
+  synopsis: "Percheparticipatif.fr: évolutiond'une application de démarcherticipativepour un acteur publique"
+  travail: "-Appropriation du code écrit précédement,<br />
+            -Ajout de nouvelles fonctionnalités,<br />
+            -Relations client,<br />
+            -Respect du calendrier,<br />
+            -Présentation presse,<br />
+            -Utilisation du language Ruby et Ruby-on-Rails,<br />
+            -Utilisation de gem comme haml, pry, ect..."
+  year:
+    end: "juillet 2016"
+    start: "Février 2016"
+-
+  synopsis: "Ruralis: one page statique pour un magazine photo"
+  travail: "Création d'une one page,<br />
+            -En html, <br />
+            -Css,<br />
+            -Intégration visuel défini par le client,<br />
+            -Proposition d'améliorations graphiques,<br />
+            -Utilisation de Wordpress pour administration du site."
+  year:
+    end: "Juillet 2016"
+    start: "Février 2016"
+-
+  name: "Vendeur polyvalant"
+  synopsis: "CDD a temps plein en Intermarche,<br />
+             Stage de Cap vente en lycée.<br />"
+  year:
+    end: "Aout 2015"
+    start: "Septembre 2010"

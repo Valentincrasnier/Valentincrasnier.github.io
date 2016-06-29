@@ -1,0 +1,6 @@
+{% for experience in site.data.experiences %}
+      <h2>{{ experience.name }}</h2>
+      <h3>{{ experience.synopsis }}</h3>
+      <p>{{ experience.travail }}</p>
+      <p>Début en {{ experience.year.start }} fin en {{ experience.year.end }}</p>
+{% endfor %}
